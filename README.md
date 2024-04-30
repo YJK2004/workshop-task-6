@@ -8,4 +8,4 @@ URL: https://yjk2004.github.io/workshop-task-6/
 - loading the font into sketch was quite similar to loading images
 
 ## RiTa js
--reference: https://rednoise.org/rita/#reference
+- reference: https://rednoise.org/rita/#reference
